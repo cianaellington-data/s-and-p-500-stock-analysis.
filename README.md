@@ -17,13 +17,13 @@ The dashboard and charts demonstrate the ability to transform raw financial data
 ## Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](dashboard/dashboard_overview.png)
+(dashboard/dashboard_overview.png)
 
 ### Closing Prices
-![Closing Prices Chart](dashboard/Closing_prices_chart.png)
+(dashboard/Closing_prices_chart.png)
 
 ### Trading Volume
-![Trading Volume Chart](dashboard/trading_volume_chart.png)
+(dashboard/trading_volume_chart.png)
 
 ---
 
