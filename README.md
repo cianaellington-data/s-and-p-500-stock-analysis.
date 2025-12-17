@@ -12,6 +12,7 @@ The goal is to transform raw financial data into actionable insights, identify p
 3. [Dashboard Screenshots](#dashboard-screenshots)
 4. [Representative SQL Analysis](#representative-sql-analysis)
 5. [Key Insights](#key-insights)
+6.[Folder Structure](#folder-structure) 
 
 ---
 
@@ -32,7 +33,7 @@ The goal is to transform raw financial data into actionable insights, identify p
 *This chart visualizes the closing prices for individual stocks over time, highlighting trends, peaks, and dips in stock performance throughout the year.*
 ### Trading Volume
 ![Trading Volume Chart](dashboard/trading_volume_chart.png)
-*This chart displays the daily trading volume for each stock, helping to identify periods of high market activity and investor interest.*
+*This chart displays the daily trading volume for each stock, helping to identify periods of high market activity and investor interest*
 ---
 
 ## Representative SQL Analysis
@@ -74,8 +75,25 @@ ORDER BY c.date;
 | **Data-driven decision-making**   | Demonstrates how raw financial data can be transformed into actionable insights for strategy and reporting. |
 
 
+--S-P-500-Stock-Analysis/
+├── dashboard/
+│   ├── dashboard_overview.png
+│   ├── closing_prices_chart.png
+│   └── trading_volume_chart.png
+├── sql/
+│   └── analysis.sql
+└── README.md
 
 
+--Next Steps
+
+Expand the analysis to include multiple years to identify long-term trends.
+
+Perform correlation or volatility analysis between stocks or sectors.
+
+Publish the Tableau dashboard publicly for interactive exploration.
+
+Explore additional visualizations such as moving averages or heatmaps by sector.
 
 
 
