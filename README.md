@@ -17,13 +17,13 @@ The goal is to transform raw financial data into actionable insights and create 
 ## Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](https://raw.githubusercontent.com/cianaellington-data/s-and-p-500-stock-analysis/main/dashboard_overview.png)
+![Dashboard Overview](dashboard/dashboard_overview.png)
 
 ### Closing Prices
-![Closing Prices Chart](https://raw.githubusercontent.com/cianaellington-data/s-and-p-500-stock-analysis/main/Closing_prices_chart.png)
+![Closing Prices Chart](dashboard/closing_prices_chart.png)
 
 ### Trading Volume
-![Trading Volume Chart](https://raw.githubusercontent.com/cianaellington-data/s-and-p-500-stock-analysis/main/trading_volume_chart.png)
+![Trading Volume Chart](dashboard/trading_volume_chart.png)
 
 ---
 
@@ -51,6 +51,7 @@ JOIN trading_volume v
   ON c.date = v.date
   AND c.stock_symbol = v.stock_symbol
 ORDER BY c.date;
+
 
 
 
