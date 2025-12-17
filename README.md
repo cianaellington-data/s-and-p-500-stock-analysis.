@@ -12,6 +12,8 @@ This project explores historical S&P 500 stock trends for 2014. Using SQL for da
 
 ## Dashboard Screenshots
 
+## Dashboard Screenshots
+
 ### Dashboard Overview
 ![Dashboard Overview](dashboard/dashboard_overview.png)
 
@@ -20,6 +22,7 @@ This project explores historical S&P 500 stock trends for 2014. Using SQL for da
 
 ### Trading Volume
 ![Trading Volume Chart](dashboard/trading_volume_chart.png)
+
 
 ## Representative SQL Analysis
 
