@@ -26,13 +26,13 @@ The goal is to transform raw financial data into actionable insights, identify p
 
 ### Dashboard Overview
 ![Dashboard Overview](dashboard/dashboard_overview.png)
-
+*This overview dashboard presents the key metrics for S&P 500 stocks in 2014, showing trends in both closing prices and trading volume across all tracked companies.*
 ### Closing Prices
 ![Closing Prices Chart](dashboard/closing_prices_chart.png)
-
+*This chart visualizes the closing prices for individual stocks over time, highlighting trends, peaks, and dips in stock performance throughout the year.*
 ### Trading Volume
 ![Trading Volume Chart](dashboard/trading_volume_chart.png)
-
+*This chart displays the daily trading volume for each stock, helping to identify periods of high market activity and investor interest.*
 ---
 
 ## Representative SQL Analysis
