@@ -3,6 +3,9 @@
 ## Summary
 This project explores the historical performance of S&P 500 stocks for the year 2014. Using **SQL for data analysis** and **Tableau for visualization**, it examines trends in **closing prices** and **trading volumes** across multiple companies.  
 
+## Disclaimer
+This project was created for educational and portfolio purposes only. It uses publicly available historical S&P 500 stock data from 2014. The analysis and visualizations are not intended to provide financial, investment, or trading advice.
+
 The goal is to transform raw financial data into actionable insights, identify patterns in stock behavior, and present findings in a clear, interactive dashboard format. This project demonstrates how structured analysis and visualizations can support financial decision-making.
 
 ---
