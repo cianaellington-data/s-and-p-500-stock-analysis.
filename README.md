@@ -63,7 +63,29 @@ JOIN trading_volume v
 ORDER BY c.date;
 
 
+Next Steps
 
+This project provides a foundation for analyzing the relationship between trading volume and price movement using historical S&P 500 data. The next phase focuses on expanding analytical depth and translating insights into business- and finance-relevant decisions.
+
+Analytical Enhancements
+
+Extend the analysis beyond 2014 to compare volume–price behavior across different market environments.
+
+Apply rolling averages and volatility metrics to distinguish short-term noise from sustained price movements.
+
+Segment results by sector to evaluate whether volume signals vary across industries and risk profiles.
+
+Business & Financial Insight Development
+
+Translate analytical findings into stakeholder-focused insights, such as implications for market monitoring, risk assessment, or trend identification.
+
+Frame results in the context of financial decision-making (e.g., how volume patterns may inform short-term analysis or longer-term positioning).
+
+Refine visualizations to emphasize clarity, comparability, and actionable takeaways.
+
+Capstone Alignment
+
+Build on the methods and insights from this project as a foundation for an upcoming capstone, with a stronger emphasis on financial interpretation, business impact, and narrative clarity.
 
 
 
